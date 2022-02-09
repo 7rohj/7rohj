@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @7rohj
-- 👀 I’m interested in NLP these days
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 파이썬이 궁금한 25세 여자사람
+  NLP 공부중 
 
 <!---
 7rohj/7rohj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
