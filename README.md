@@ -1,5 +1,5 @@
 - 파이썬이 궁금한 25세 여자사람
-  NLP 공부중 
+- NLP 공부중 📒📕📗📘
 
 <!---
 7rohj/7rohj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
