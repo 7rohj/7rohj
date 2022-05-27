@@ -4,7 +4,7 @@
 　　　　　　　　**Thanks to visiting..** </br>
 　　　　　　　　▪ </br>
 　　　　　　　▪ </br>
-![철푸덕이3](https://user-images.githubusercontent.com/99319638/170687000-4a96e47d-65be-464f-8bb7-77d15cceadcb.gif)
+<img src="https://github.com/7rohj/7rohj/blob/main/vllo.gif?raw=true" width="360"/> </br>
 
 
 ### WantToBe
