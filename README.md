@@ -31,5 +31,9 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7rohj&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
+
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7rohj&count_bg=%23FF5E7A&title_bg=%23555555&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  
+  <div align="center">
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
