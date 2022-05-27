@@ -4,7 +4,7 @@
 　　　　　　　　**Thanks to visiting..** </br>
 　　　　　　　　▪ </br>
 　　　　　　　▪ </br>
-![철푸덕이](https://user-images.githubusercontent.com/99319638/170686257-948f6e9a-0f77-4138-bf7c-c0f16ac4dab0.gif)
+![철푸덕이3](https://user-images.githubusercontent.com/99319638/170687000-4a96e47d-65be-464f-8bb7-77d15cceadcb.gif)
 
 
 ### WantToBe
