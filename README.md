@@ -1,6 +1,6 @@
 <div align="center">
   
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=💗HI!%20Its%20Me👋&fontSize=62)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,10&height=250&section=header&text=💗HI!%20Its%20Me👋&fontSize=62)
 ### Skills ^.^
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
