@@ -2,11 +2,7 @@
   
  ![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=120&section=header&text=&fontSize=90)
 
-# HELlo wOrLd 🤸‍♀️
-  <br/>
-  <br/>
-  
-### 🛫🛬 Skills
+## 🛫🛬 Skills
   <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
@@ -28,12 +24,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 
+<br/>
+<br/>
 
-<div align="center">
-  <br/>
-  <br/>
-  <br/>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7rohj&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7rohj&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
- 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<div align="center">
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
