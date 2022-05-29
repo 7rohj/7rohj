@@ -4,7 +4,7 @@
 　　　　　　　　**Thanks to visiting..** </br>
 　　　　　　　　▪ </br>
 　　　　　　　▪ </br>
-<img src="./main/vllo.gif?raw=true" width="360"/> </br>
+<img src="https://github.com/7rohj/7rohj/blob/main/vllo.gif?raw=true" width="360"/> </br>
 
 
 ### WantToBe
